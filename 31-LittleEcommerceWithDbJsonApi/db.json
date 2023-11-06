@@ -1,0 +1,272 @@
+{
+  "singer": [
+    {
+      "id": 1,
+      "name": "Adele",
+      "age": 30,
+      "Birthplace": "British",
+      "Genre": "Pop",
+      "image": "https://lastfm.freetls.fastly.net/i/u/ar0/e3bed9191ae80d3ef1b0d48f4472074a.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Taylor Swift",
+      "age": 30,
+      "Birthplace": "American",
+      "Genre": "Pop",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/hnVKqXE-xPM5bi3w8RQLqFCDw_E/475x60:1974x1559/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/09/09/023/n/1922398/9f849ffa5d76e13d154137.01128738_/i/Taylor-Swift.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ed Sheeran",
+      "age": 32,
+      "Birthplace": "British",
+      "Genre": "Pop",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ed-sheeran-GettyImages-494227430_1600.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+    },
+    {
+      "id": 4,
+      "name": "Abel Tesfaye",
+      "age": 33,
+      "Birthplace": "Kanada",
+      "Genre": "Pop",
+      "image": "https://i.pinimg.com/550x/28/b4/93/28b49338ef58dbe27eeb37695673c6b4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Jennifer Lopez",
+      "age": 50,
+      "Birthplace": "America",
+      "Genre": "Pop",
+      "image": "https://cfda.imgix.net/2019/04/JLo-headshot-by-Gabriel-Goldman.jpg?w=384&dpr=2.625&auto=format&q=35&fit=clip"
+    },
+    {
+      "id": 6,
+      "name": "Madonna",
+      "age": 65,
+      "Birthplace": "American",
+      "Genre": "Pop",
+      "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2022/05/OFF-PLAT-PC-madonna.jpg?strip=all&quality=100&w=1620&h=1080&crop=1"
+    }
+  ],
+  "meals": [
+    {
+      "id": 1,
+      "name": "Yarpaq dolmasi",
+      "price": 15,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Az%C9%99rbaycan_dolmas%C4%B1.jpg/1200px-Az%C9%99rbaycan_dolmas%C4%B1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "3 baci dolmasi",
+      "price": 20,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMeGv-lKJMpXYH1HdTIPd6Sy3qIP-wRQP4Qw&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Paytaxt salati",
+      "price": 10,
+      "image": "https://turangroup.az/images/detailed/1/WhatsApp_Image_2021-01-13_at_02.04.02__5_.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Plov",
+      "price": 25,
+      "image": "https://anadolu.az/image/cache/data/Sah%20plov-400x400.jpg"
+    }
+  ],
+  "users": [
+    {
+      "username": "Ayan",
+      "email": "abd@gmail.com",
+      "password": "122344",
+      "balance": "3333",
+      "orders": [],
+      "id": 1
+    },
+    {
+      "username": "Nilufer",
+      "email": "Nilufer@gmail.com",
+      "password": "333333",
+      "balance": "3333",
+      "orders": [],
+      "id": 2
+    },
+    {
+      "username": "Ayan",
+      "email": "abd@gmail.com",
+      "password": "122344",
+      "balance": "3333",
+      "orders": [],
+      "id": 3
+    },
+    {
+      "username": "Ayan",
+      "email": "abd@gmail.com",
+      "password": "122344",
+      "balance": "3333",
+      "orders": [],
+      "id": 4
+    },
+    {
+      "username": "Ayan",
+      "email": "abd@gmail.com",
+      "password": "122334",
+      "balance": "3333",
+      "orders": [],
+      "id": 5
+    },
+    {
+      "username": "Nilufer",
+      "email": "Nilufer@gmail.com",
+      "password": "8y896789698",
+      "balance": "3333",
+      "orders": [],
+      "id": 6
+    },
+    {
+      "username": "fuad",
+      "email": "fuad@gmail.com",
+      "password": "888888",
+      "balance": "6788",
+      "orders": [],
+      "id": 7
+    },
+    {
+      "username": "fuad",
+      "email": "fuad@gmail.com",
+      "password": "888888",
+      "balance": "6788",
+      "orders": [],
+      "id": 8
+    },
+    {
+      "username": "fuad",
+      "email": "fuad@gmail.com",
+      "password": "888888",
+      "balance": "6788",
+      "orders": [],
+      "id": 9
+    },
+    {
+      "username": "fuad",
+      "email": "abd@gmail.com",
+      "password": "786869876",
+      "balance": "88888",
+      "orders": [],
+      "id": 10
+    },
+    {
+      "username": "Fidan",
+      "email": "Fidan@gmail.com",
+      "password": "335666",
+      "balance": "34432",
+      "orders": [],
+      "id": 11
+    },
+    {
+      "username": "Ayan",
+      "email": "abd@gmail.com",
+      "password": "122334",
+      "balance": "6788",
+      "orders": [],
+      "id": 12
+    },
+    {
+      "username": "fuad",
+      "email": "Nilufer@gmail.com",
+      "password": "465465467",
+      "balance": "3333",
+      "orders": [],
+      "id": 13
+    },
+    {
+      "username": "Ayan",
+      "email": "abd@gmail.com",
+      "password": "122334",
+      "balance": "6788",
+      "orders": [],
+      "id": 14
+    },
+    {
+      "username": "Ayan",
+      "email": "abd@gmail.com",
+      "password": "122334",
+      "balance": "6788",
+      "orders": [],
+      "id": 15
+    },
+    {
+      "username": "Ayan",
+      "email": "abd@gmail.com",
+      "password": "122334",
+      "balance": "6788",
+      "orders": [],
+      "id": 16
+    },
+    {
+      "username": "Nilufer",
+      "email": "Nilufer@gmail.com",
+      "password": "888888",
+      "balance": "3333",
+      "orders": [],
+      "id": 17
+    },
+    {
+      "username": "Ayan",
+      "email": "abd@gmail.com",
+      "password": "4444",
+      "balance": "44",
+      "orders": [],
+      "id": 18
+    },
+    {
+      "username": "Ayan",
+      "email": "abd@gmail.com",
+      "password": "4543433",
+      "balance": "3333",
+      "orders": [],
+      "id": 19
+    },
+    {
+      "username": "nicat",
+      "email": "nicat@gmail.com",
+      "password": "132455",
+      "balance": "123",
+      "orders": [],
+      "id": 20
+    },
+    {
+      "username": "nicat",
+      "email": "nicat@gmail.com",
+      "password": "123",
+      "balance": "12312314",
+      "orders": [],
+      "id": 21
+    },
+    {
+      "username": "Ayan",
+      "email": "Ayan@gmail.com",
+      "password": "132424",
+      "balance": "123",
+      "orders": [],
+      "id": 22
+    },
+    {
+      "username": "Ayan",
+      "email": "Ayan@gmail.com",
+      "password": "34244",
+      "balance": "5000",
+      "orders": [],
+      "id": 23
+    },
+    {
+      "username": "Ayan",
+      "email": "ayan123@gmail.com",
+      "password": "23456",
+      "balance": "3333",
+      "orders": [],
+      "id": 24
+    }
+  ]
+}

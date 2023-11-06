@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary"
+        style="background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(13,177,209,1) 0%, rgba(0,175,179,1) 60%, rgba(137,112,190,1) 100%, rgba(169,54,189,1) 100%, rgba(113,78,211,1) 100%);">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#"><img style="width: 120px; height: 40px;  display: grid;
+                grid-template-columns: 1fr auto;" src="./image/spotify.png" alt=""></a>
+            <div class="container"
+                style="display: flex; align-items: center; justify-content: space-between; color: white; font-weight: bold;">
+                <li style="display: grid;
+            grid-template-columns: 0 auto;" class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                </li>
+                <li style="display: grid;
+                grid-template-columns: 0 auto;" class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="./register.html">Sign In</a>
+                </li>
+
+                <li style="display: grid;
+            grid-template-columns: 1fr auto;" class="nav-item">
+                    <a class="nav-link" href="./main.html">Meals</a>
+                <li style="display: grid;
+            grid-template-columns: 1fr auto;" class="nav-item">
+                    <a class="nav-link" href="./wishlist.html">wishlist</a>
+                </li>
+
+                </li>
+            </div>
+            <div>
+                <input type="text" placeholder="Search">
+                <button type="button" class="btn btn-outline-dark">Search</button>
+                <span class="dot"
+                    style="height: 60px;width: 60px;background:center center; background-image:url(https://upload.wikimedia.org/wikipedia/commons/5/52/Adele_for_Vogue_in_2021.png) ; border-radius: 50%; display: inline-block;"></span>
+                <a href="./profile.html"> <button class="btn btn-success" type="submit">Profile</button></a>
+            </div>
+        </div>
+
+
+    </nav>
+    <!-- Navbar end -->
+    <input placeholder="Search singer" type="text">
+    <label for=""></label>
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+    <script src="./app.js"></script>
+</body>
+
+</html>
